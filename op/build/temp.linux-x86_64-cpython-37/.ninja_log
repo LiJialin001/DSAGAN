@@ -1,0 +1,9 @@
+# ninja log v5
+0	11061	0	/home/l611/Projects/ljl/stylegan2-pytorch-master/op/build/temp.linux-x86_64-cpython-37/home/l611/Projects/ljl/stylegan2-pytorch-master/op/upfirdn2d_kernel.o	ac39f2304ffb3f71
+0	17871	0	/home/l611/Projects/ljl/stylegan2-pytorch-master/op/build/temp.linux-x86_64-cpython-37/home/l611/Projects/ljl/stylegan2-pytorch-master/op/upfirdn2d.o	909ba35840a45482
+0	10708	0	/home/l611/Projects/ljl/stylegan2-pytorch-master/op/build/temp.linux-x86_64-cpython-37/home/l611/Projects/ljl/stylegan2-pytorch-master/op/fused_bias_act_kernel.o	f6f7106db7c3eb3b
+0	13351	0	/home/l611/Projects/ljl/stylegan2-pytorch-master/op/build/temp.linux-x86_64-cpython-37/home/l611/Projects/ljl/stylegan2-pytorch-master/op/fused_bias_act.o	b07fcf31ba04aa4f
+73	11928	1702304290133716751	/home/l611/Projects/ljl/stylegan2-pytorch-master/op/build/temp.linux-x86_64-cpython-37/home/l611/Projects/ljl/stylegan2-pytorch-master/op/upfirdn2d_kernel.o	856b6f724517c4c1
+73	14722	1702304292921781081	/home/l611/Projects/ljl/stylegan2-pytorch-master/op/build/temp.linux-x86_64-cpython-37/home/l611/Projects/ljl/stylegan2-pytorch-master/op/upfirdn2d.o	367e66cc743ec808
+2	9966	1702304304434047208	/home/l611/Projects/ljl/stylegan2-pytorch-master/op/build/temp.linux-x86_64-cpython-37/home/l611/Projects/ljl/stylegan2-pytorch-master/op/fused_bias_act_kernel.o	965e62ccb8870b34
+2	12793	1702304307254112519	/home/l611/Projects/ljl/stylegan2-pytorch-master/op/build/temp.linux-x86_64-cpython-37/home/l611/Projects/ljl/stylegan2-pytorch-master/op/fused_bias_act.o	df123a2b396024bb
